@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Test20220704_1</string>
+    <string name="helloWorld">Hello World!</string>
+    <string name="button_true">true</string>
+    <string name="button_false">false</string>
+    <string name="Question1">Overload is used when class inheritance in Kotlin?</string>
+    <string name="Question2">"英國是十八世紀最早發生工業革命的國家，因而成為當時世界上最富強的國家。"</string>
+    <string name="Question3">"資訊科技的不當使用可能造成新興犯罪，所以必須制定相關法律來加以管理。"</string>
+    <string name="next_button">NEXT</string>
+    <string name="prev_button">PREV</string>
+</resources>
